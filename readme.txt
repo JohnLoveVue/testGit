@@ -6,3 +6,4 @@ test diff command.
 ------>>>2017.06.08
 test git diff HEAD -- readme.txt命令
 test git checkout -- file命令
+test git reset HEAD file 命令
