@@ -7,3 +7,4 @@ test diff command.
 test git diff HEAD -- readme.txt命令
 test git checkout -- file命令
 test git reset HEAD file 命令
+git commit --amend 修改上一版本的描述文字
