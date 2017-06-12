@@ -12,3 +12,5 @@ git commit --amend 修改上一版本的描述文字
 test git branch dev
 test git branch conflict
 test git no-ff merge style
+dev has not commit then checkout to issue directly,
+we will see the file that has been modiffied will commit together.
