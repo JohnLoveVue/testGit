@@ -10,3 +10,4 @@ test git reset HEAD file 命令
 git commit --amend 修改上一版本的描述文字
 ------>>>2017.06.12
 test git branch dev
+test git branch conflick at master branch
